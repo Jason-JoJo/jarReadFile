@@ -1,5 +1,5 @@
 # jarReadFile
-read file in jar 
+springboot read file in jar 
 
-ref
+ref:
 https://stackoverflow.com/questions/51645295/how-to-specify-the-path-for-getresourceasstream-method-in-java
